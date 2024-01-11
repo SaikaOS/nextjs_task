@@ -9,5 +9,9 @@ npm run dev - чтобы запустить проект
 
 
 
-https://github.com/SaikaOS/nextjs_task/assets/91471170/0f3c77f5-bffa-4a66-981f-1d819aa0886e
+
+https://github.com/SaikaOS/nextjs_task/assets/91471170/1649535f-3204-4604-833d-da56b959208d
+
+
+
 
